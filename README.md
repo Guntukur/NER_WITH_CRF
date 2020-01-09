@@ -7,3 +7,9 @@ evaluate their importance through the model performance.Final goal is to identif
 
 For Details and better understanding go through [Report](https://github.com/venkma/NER_WITH_CRF/blob/master/Detailed_Report_NER_FINAL.pdf).
 
+
+## Acknowledgments
+### References
+- [A CRF based Machine Learning Approach for
+Biomedical Named Entity Recognition](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf)
+
