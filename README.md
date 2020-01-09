@@ -11,5 +11,5 @@ For Details and better understanding go through [Report](https://github.com/venk
 ## Acknowledgments
 ### References
 - [A CRF based Machine Learning Approach for
-Biomedical Named Entity Recognition](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf)
+Biomedical Named Entity Recognition](https://ieeexplore.ieee.org/document/8057560)
 
